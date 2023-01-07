@@ -142,7 +142,7 @@ section {
     margin-bottom: 20px;
 }
 
-/* footer styles */
+/* footer styles  for future plants*/
 
 footer {
     background: #151414;
@@ -157,7 +157,13 @@ footer {
 }
 .footer-title{
        padding-left: 50px;
-       margin-right: 500px;
+       margin-left: 100px;
+       margin-right: 100px;
+
+}
+.footer-sub-title{
+    color: white;
+    margin-bottom: 10px;
 
 }
 .para-color{
@@ -165,7 +171,7 @@ footer {
     margin-bottom: 10px;
 }
 .footer-second{
-    margin-right: 600px;
+    margin-right:200px;
 }
 .footer-second-title{
     margin-bottom: 10px;
@@ -181,8 +187,6 @@ input{
     margin-bottom: 10px;
     color: white;
 }
-.footer-sub-title{
-    color: white;
-    margin-bottom: 10px;
-
+.img-gap{
+    margin-left: 10px;
 }
