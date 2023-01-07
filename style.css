@@ -11,6 +11,10 @@
 
 }
 
+main {
+    margin: 0 auto;
+}
+
 /* styling header */
 
 .header-part {
@@ -22,11 +26,8 @@
 }
 
 .header-container {
-    padding: 120px 120px 0  600px;
+    padding: 120px 120px 0 600px;
     text-align: right;
-
-
-
 }
 
 .header-container-title {
@@ -43,4 +44,35 @@
     margin-bottom: 30px;
     color: #FFFFFF;
 
+}
+
+/* my failures of previous year  style */
+.my-activities {
+    display: flex;
+    padding: 70px;
+    gap: 60px;
+}
+
+div img {
+    Width: 500px;
+    Height: 600px;
+}
+
+.my-fuilur {
+    margin-top: 200px;
+    margin-right: 250px;
+    text-align: left;
+}
+
+.my-fuilur-title {
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.my-fuilur-sub {
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 16px;
+    color: #444343;
 }
