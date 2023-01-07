@@ -191,8 +191,8 @@ justify-content: center;
 
 footer {
     background: #151414;
-    width: 1345px;
-    height: 390px;
+    /* width: 1370px; */
+    height: 380px;
 }
 
 .footer-div{
